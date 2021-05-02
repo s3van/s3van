@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Sevan** 
+# 👋 Hi, my name is **Sevan Yeritsyan** 
 ## I'm a junior *Front-end developer* from Armenia 
 ### Check my profile: [LinkedIn.com](https://www.linkedin.com/in/sevan-yeritsyan-aa2b5620b/) 
 ### Check my website: [Todo](https://todocomponentbys3van.netlify.app/) 
