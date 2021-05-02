@@ -8,3 +8,4 @@
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
 ![REACT](https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
+![NPM](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
