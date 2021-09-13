@@ -11,3 +11,4 @@
 ![NPM](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![MATERIALUI](https://img.shields.io/badge/-MaterialUI-black?style=for-the-badge&logo=materialui)
